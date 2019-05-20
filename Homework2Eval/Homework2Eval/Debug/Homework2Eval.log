@@ -1,0 +1,8 @@
+﻿  eval.cpp
+c:\users\micha\onedrive\desktop\cs32\homework2eval\homework2eval\eval.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\homework2eval\homework2eval\eval.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\homework2eval\homework2eval\eval.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\homework2eval\homework2eval\eval.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\homework2eval\homework2eval\eval.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\homework2eval\homework2eval\eval.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  Homework2Eval.vcxproj -> C:\Users\micha\OneDrive\Desktop\CS32\Homework2Eval\Debug\Homework2Eval.exe
