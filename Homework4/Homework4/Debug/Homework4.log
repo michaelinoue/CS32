@@ -1,0 +1,4 @@
+﻿  Set.cpp
+c:\users\micha\onedrive\desktop\cs32\homework4\homework4\set.cpp(22): warning C4715: 'Coord::operator==': not all control paths return a value
+c:\users\micha\onedrive\desktop\cs32\homework4\homework4\set.cpp(27): warning C4715: 'Coord::operator<': not all control paths return a value
+  Homework4.vcxproj -> C:\Users\micha\OneDrive\Desktop\CS32\Homework4\Debug\Homework4.exe
