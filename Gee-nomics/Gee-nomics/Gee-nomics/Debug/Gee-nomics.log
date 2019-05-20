@@ -1,0 +1,78 @@
+﻿  Genome.cpp
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genome.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genome.cpp(79): warning C4018: '>': signed/unsigned mismatch
+  GenomeMatcher.cpp
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(96): warning C4018: '>=': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(158): warning C4018: '>=': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(56): warning C4018: '<': signed/unsigned mismatch
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(55): note: while compiling class template member function 'Trie<GenomeMatcherImpl::Pair *>::~Trie(void)'
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(47): note: see reference to function template instantiation 'Trie<GenomeMatcherImpl::Pair *>::~Trie(void)' being compiled
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(46): note: see reference to class template instantiation 'Trie<GenomeMatcherImpl::Pair *>' being compiled
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(160): warning C4018: '<': signed/unsigned mismatch
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(155): note: while compiling class template member function 'void Trie<GenomeMatcherImpl::Pair *>::insert(const std::string &,const ValueType &)'
+          with
+          [
+              ValueType=GenomeMatcherImpl::Pair *
+          ]
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(67): note: see reference to function template instantiation 'void Trie<GenomeMatcherImpl::Pair *>::insert(const std::string &,const ValueType &)' being compiled
+          with
+          [
+              ValueType=GenomeMatcherImpl::Pair *
+          ]
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(198): warning C4018: '<': signed/unsigned mismatch
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(193): note: while compiling class template member function 'std::vector<GenomeMatcherImpl::Pair *,std::allocator<_Ty>> Trie<GenomeMatcherImpl::Pair *>::find(const std::string &,bool) const'
+          with
+          [
+              _Ty=GenomeMatcherImpl::Pair *
+          ]
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(83): note: see reference to function template instantiation 'std::vector<GenomeMatcherImpl::Pair *,std::allocator<_Ty>> Trie<GenomeMatcherImpl::Pair *>::find(const std::string &,bool) const' being compiled
+          with
+          [
+              _Ty=GenomeMatcherImpl::Pair *
+          ]
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(121): warning C4018: '<': signed/unsigned mismatch
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(116): note: while compiling class template member function 'void Trie<GenomeMatcherImpl::Pair *>::helpInsert(const std::string &,const ValueType &,Trie<ValueType>::Node *)'
+          with
+          [
+              ValueType=GenomeMatcherImpl::Pair *
+          ]
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(180): note: see reference to function template instantiation 'void Trie<GenomeMatcherImpl::Pair *>::helpInsert(const std::string &,const ValueType &,Trie<ValueType>::Node *)' being compiled
+          with
+          [
+              ValueType=GenomeMatcherImpl::Pair *
+          ]
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(49): note: while compiling class template member function 'Trie<GenomeMatcherImpl::Pair *>::Trie(void)'
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\genomematcher.cpp(51): note: see reference to function template instantiation 'Trie<GenomeMatcherImpl::Pair *>::Trie(void)' being compiled
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(69): warning C4018: '<': signed/unsigned mismatch
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(64): note: while compiling class template member function 'std::vector<GenomeMatcherImpl::Pair *,std::allocator<_Ty>> Trie<GenomeMatcherImpl::Pair *>::helpFind(const std::string &,bool,Trie<GenomeMatcherImpl::Pair *>::Node *) const'
+          with
+          [
+              _Ty=GenomeMatcherImpl::Pair *
+          ]
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(211): note: see reference to function template instantiation 'std::vector<GenomeMatcherImpl::Pair *,std::allocator<_Ty>> Trie<GenomeMatcherImpl::Pair *>::helpFind(const std::string &,bool,Trie<GenomeMatcherImpl::Pair *>::Node *) const' being compiled
+          with
+          [
+              _Ty=GenomeMatcherImpl::Pair *
+          ]
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(42): warning C4018: '<': signed/unsigned mismatch
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(36): note: while compiling class template member function 'void Trie<GenomeMatcherImpl::Pair *>::clearMemory(Trie<GenomeMatcherImpl::Pair *>::Node *)'
+  c:\users\micha\onedrive\desktop\cs32\gee-nomics\gee-nomics\trie.h(58): note: see reference to function template instantiation 'void Trie<GenomeMatcherImpl::Pair *>::clearMemory(Trie<GenomeMatcherImpl::Pair *>::Node *)' being compiled
+  Generating Code...
+  Gee-nomics.vcxproj -> C:\Users\micha\OneDrive\Desktop\CS32\Gee-nomics\Gee-nomics\Debug\Gee-nomics.exe
